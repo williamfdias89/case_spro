@@ -1,0 +1,95 @@
+[{
+  "_id": "EUA",
+  "Carros": [
+    {
+      "_id": {
+        "$oid": "65511bc283798be86679e3a0"
+      },
+      "carro": "Onix",
+      "cor": "Prata",
+      "montadora": "Chevrolet",
+      "montadoras": {
+        "_id": {
+          "$oid": "65511bc283798be86679e3a5"
+        },
+        "montadora": "Chevrolet",
+        "pais": "EUA"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "65511bc283798be86679e3a3"
+      },
+      "carro": "Fiesta",
+      "cor": "Vermelho",
+      "montadora": "Ford",
+      "montadoras": {
+        "_id": {
+          "$oid": "65511bc283798be86679e3a8"
+        },
+        "montadora": "Ford",
+        "pais": "EUA"
+      }
+    }
+  ]
+},
+{
+  "_id": "Alemanhã",
+  "Carros": [
+    {
+      "_id": {
+        "$oid": "65511bc283798be86679e3a1"
+      },
+      "carro": "Polo",
+      "cor": "Branco",
+      "montadora": "Volkswagen",
+      "montadoras": {
+        "_id": {
+          "$oid": "65511bc283798be86679e3a6"
+        },
+        "montadora": "Volkswagen",
+        "pais": "Alemanhã"
+      }
+    }
+  ]
+},
+{
+  "_id": "Japão",
+  "Carros": [
+    {
+      "_id": {
+        "$oid": "65511bc283798be86679e3a4"
+      },
+      "carro": "City",
+      "cor": "Preto",
+      "montadora": "Honda",
+      "montadoras": {
+        "_id": {
+          "$oid": "65511bc283798be86679e3a9"
+        },
+        "montadora": "Honda",
+        "pais": "Japão"
+      }
+    }
+  ]
+},
+{
+  "_id": "França",
+  "Carros": [
+    {
+      "_id": {
+        "$oid": "65511bc283798be86679e3a2"
+      },
+      "carro": "Sandreo",
+      "cor": "Prata",
+      "montadora": "Renault",
+      "montadoras": {
+        "_id": {
+          "$oid": "65511bc283798be86679e3a7"
+        },
+        "montadora": "Renault",
+        "pais": "França"
+      }
+    }
+  ]
+}]
